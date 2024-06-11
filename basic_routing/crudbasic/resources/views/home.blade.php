@@ -8,5 +8,23 @@
 </head>
 <body>
 <h1>HOMEPAGE</h1>
+
+
+    <table>
+        <th>Name</th>
+        <th>Email</th>
+
+        <tbody>
+
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+
+        </tbody>
+    </table>
+
+
+
 </body>
 </html>
